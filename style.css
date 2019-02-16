@@ -1,4 +1,4 @@
-﻿/*-----------------------------------------------------------------------------------
+/*-----------------------------------------------------------------------------------
 Template Name: Classic One Page Template,
 Template URI: http://www.quomodotheme.com
 Description: This is html5 template
@@ -37,7 +37,7 @@ CSS INDEX
 1. Google font
 ------------------*/
 
-@import url('css.css');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700|Roboto:300,400,500,700,900|Satisfy');
 
 /*-------------------
 2. Theme Default CSS
@@ -65,6 +65,11 @@ a {
     color: #898989;
 }
 
+
+.navbar-brand{font-size: 1.9em;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;}
 
 input:focus,
 button:focus,
@@ -322,7 +327,7 @@ a.scrolldown {
 
 .header-area {
     position: relative;
-    background: url('images/header-bg.jpeg') no-repeat scroll center center / cover;
+    background: url('images/header-bg.jpg') no-repeat scroll center center / cover;
     width: 100%;
     height: 100%;
 }
@@ -345,7 +350,7 @@ a.scrolldown {
 }
 
 .site2 .header-area {
-    background-image: url('images/header-bg-2.jpeg');
+    background-image: url('images/header-bg-2.jpg');
 }
 
 .header-area .header-text .header-title {
@@ -1254,7 +1259,7 @@ a.scrolldown {
 /*-- 21. process-area --*/
 
 .process {
-    background: url('images/service-line.jpeg') no-repeat scroll top 20px center;
+    background: url('images/service-line.jpg') no-repeat scroll top 20px center;
     color: #6b6d6f;
 }
 
