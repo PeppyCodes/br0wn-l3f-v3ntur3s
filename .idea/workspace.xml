@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,46 +15,17 @@
       <executable />
     </execution>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>what ou</find>
-      <find>meet the</find>
-      <find>pricing</find>
-      <find>service</find>
-      <find>logo</find>
-      <find>anupam</find>
-      <find>Why</find>
-      <find>Our Workflow</find>
-      <find>workflow</find>
-      <find>working po</find>
-      <find>wo</find>
-      <find>wor</find>
-      <find>contact now</find>
-      <find>learn more</find>
-      <find>brown leaf</find>
-      <find>ork towards creating</find>
-      <find>Low risk with medium returns</find>
-      <find>big</find>
-      <find>and our</find>
-      <find>50 yea</find>
-      <find>meet</find>
-      <find>karan</find>
-      <find>conta</find>
-      <find>nitin ga</find>
-      <find>nitin garg</find>
-      <find>meet</find>
-      <find>brown leaf ventures</find>
-      <find>index.htm</find>
-      <find>Brown Lea</find>
-      <find>other team</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QleVYHODdnJX1Mvqn8ncN98gSa" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -97,6 +67,8 @@
       <workItem from="1550339475933" duration="179000" />
       <workItem from="1550374202447" duration="2466000" />
       <workItem from="1568349634922" duration="242000" />
+      <workItem from="1568613374609" duration="64000" />
+      <workItem from="1569303133201" duration="240000" />
     </task>
     <servers />
   </component>
@@ -108,10 +80,18 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="498" height="446" key="SwitcherDM" />
+    <state width="498" height="446" key="SwitcherDM/1920.1080" />
+    <state x="431" y="145" width="672" height="680" key="search.everywhere.popup" />
+    <state x="431" y="145" width="672" height="680" key="search.everywhere.popup/1920.1080" />
   </component>
 </project>
